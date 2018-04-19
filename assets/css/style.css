@@ -1,0 +1,221 @@
+
+header {
+    position: relative;
+    display: block;
+    max-width: 100%;
+    height:100%;
+    margin:0 auto;
+    padding:20px;
+    background: #ffffff ;
+    height:50px;
+    border-bottom:2px;
+    border-style:solid;
+    border-color:#cccccc;
+}
+
+    header h1 {
+        position: relative;
+        line-height: 50px;
+        font-size: 2rem;
+        margin:0 auto;
+       
+        padding:20px;
+        bottom: 20px;
+        
+        
+
+    }
+
+
+nav {
+    padding-left:0;
+    margin-bottom:0;
+    list-style:none;
+    float:right;
+
+}
+
+nav li  {
+    position: relative; 
+    display:inline-block;
+    list-style-type: none;
+    font-family: Arial;
+    color: #222;
+    font-size: 0.8rem;
+    padding: 0 1rem;
+ 
+    }
+    
+ h1 {
+     color:#ffffff;
+     background:#4aaaa5;
+     float: left;
+    
+ }
+
+
+.sectionindex {
+position: relative;
+width:910px;
+top: 50px;
+margin:0 auto;
+border:0 auto;
+padding:25px;
+text-align:left;
+background:#ffffff;
+color: black;
+border-color:#dddddd;
+
+
+
+
+}
+
+.indexbody {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete-texture.png");
+    margin: 0;
+     padding: 0;
+     text-align: center;
+   
+    
+}
+
+#face {
+    float: left;
+    position: relative;
+    overflow: auto;
+
+    margin:5px;
+    
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.words1 {
+font-family:"Arial";
+line-height: 1.7em;
+word-spacing: 1px;
+}
+
+.words2 {
+font-family:"Arial";
+line-height: 1.7em;
+word-spacing:1px;
+}
+
+.words3 {
+    font-family:"Arial";
+    line-height: 1.7em;
+    word-spacing: 1px;
+}
+
+.AboutHead {
+    color:#4aaaa5;
+    position: relative;
+    left: 20px;
+    border-bottom: #dddddd 3px solid;
+}
+footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height:35px;
+    text-align: center;
+    background: gray;
+    border-top: 8px;
+    border-top-style:solid;
+    border-color:teal;
+    
+}
+.copy {
+    position:relative;
+    color:white;
+    font-size: 0.7rem;
+    top: 15px;
+}
+
+input[type=submit] {
+    position: relative;
+    width:15%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize:none;
+    right:116px;
+    top: 30px;
+}
+.container {
+    position: relative;
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    width: 30%;
+    margin: auto;
+    top: 40px;
+    border-color:#dddddd;
+    border-style:solid;
+    
+
+
+
+}
+   
+
+    #yname {
+        position: relative;
+        right:35px;
+        margin:auto;
+        width:30%;
+        margin-bottom:10px;
+    }
+    .yourname{
+        position: relative;
+        right:35px;
+    }
+    #email {
+        margin: auto;
+    position: relative;
+right: 18px;  
+width: 30%; 
+margin-bottom: 10px; }
+
+.emailname{
+    position: relative;
+    right: 16px;
+}
+#subject {
+    position:relative;
+    margin:auto;
+    width: 30%;
+    left: 13px;
+    resize:none;
+}
+
+.subjectname {
+    position:relative;
+    bottom: 190px;
+    left:15px;
+}
+
+input[type=submit]:hover {
+    background-color: teal;
+}
+
+.original {
+    float: left;
+    position: absolute;
+    left: 100px;
+    bottom: 5px;
+}
+.second {
+    
+    position: relative;
+}
